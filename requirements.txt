@@ -1,0 +1,9 @@
+pandas>=2.0.0
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+gspread>=5.0.0
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+schedule>=1.2.0
+

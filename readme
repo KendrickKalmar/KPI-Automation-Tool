@@ -1,0 +1,11 @@
+SR_KPI_autocollection/
+├── auto_collect.py         # Основной скрипт (обновлён)
+├── config.py               # Настройки подключений
+├── config_placement.py     # Конфигурация размещения данных (обновлён)
+├── data_processing.py      # Обработка данных
+├── sheet_placement.py      # Функции размещения в таблицах (обновлён)
+├── database.py             # Функции работы с БД (обновлён)
+├── parallel_executor.py    # Параллельное выполнение запросов
+├── requirements.txt        # Зависимости
+├── google_credentials.json # Ключи доступа Google
+└── kpi_automation.log      # Файл логов

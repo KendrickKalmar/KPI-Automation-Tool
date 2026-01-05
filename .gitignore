@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Credentials and sensitive data
+google_credentials.json
+*.key
+*.pem
+*.p12
+
+# Logs
+*.log
+kpi_automation.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test and temporary files
+security-scan/
+*.csv
+a
+
+# Environment variables
+.env
+.env.local
+
+# Local configuration (contains real credentials)
+config.py
+
+# Database dumps
+*.sql
+*.dump
+
